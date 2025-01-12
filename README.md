@@ -2,7 +2,7 @@
 
 ## 🚀 Introdução
 
-O projeto teve como objetivo criar um episódio de podcast 100% gerado por inteligência artificial, utilizando ferramentas diferentes no processo. O ChatGPT foi responsável pela elaboração do roteiro e o Eleven Labs transformou o texto em uma narração com voz realista e natural. O resultado final demonstrou como a incorporação de IAs pode simplificar e agilizar a produção de conteúdo, sem perder a qualidade e eficiência.
+O projeto teve como objetivo criar um episódio de podcast 100% gerado por inteligência artificial, utilizando ferramentas diferentes no processo. O ChatGPT foi utilizado para a elaboração do roteiro e o Eleven Labs transformou o texto em uma narração com voz realista e natural. O resultado final demonstrou como a incorporação de IAs pode simplificar e agilizar a produção de conteúdo, sem perder a qualidade e eficiência.
 
 
 ### Objetivos
