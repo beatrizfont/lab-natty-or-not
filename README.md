@@ -11,7 +11,7 @@ O projeto teve como objetivo criar um episódio de podcast 100% gerado por intel
 
 ### Template
 
-```markdown
+
 # Podcast: "Entendendo a LGPD"
 
 ## 📒 Descrição
@@ -39,4 +39,9 @@ Por fim, o áudio gerado foi revisado para garantir qualidade e coerência com o
 
 ## 🚀 Resultados
 O projeto demonstrou como essas tecnologias podem ser integradas de forma eficiente para criar conteúdo profissional de maneira ágil e inovadora.
+
+
+https://github.com/user-attachments/assets/26822cf9-0799-49f4-a6e6-11d03ea6f6f8
+
+
 
