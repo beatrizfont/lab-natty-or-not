@@ -7,7 +7,7 @@ O projeto teve como objetivo criar um episódio de podcast 100% gerado por intel
 
 ### Objetivos
 
-1. **Explorar IAs Generativas**: "Produzir um episódio de podcast completamente baseado em IA generativa.
+1. **Explorar IAs Generativas**: Produzir um episódio de podcast completamente baseado em IA generativa.
 
 ### Template
 
